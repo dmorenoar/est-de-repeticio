@@ -1,4 +1,4 @@
-# 👨‍🎓 Bucles `for` i Funció `print()` en Python
+# 👨‍🎓 Bucles `for` i funció `print()` en Python
 
 ## ♦️ Bucle `for` amb `range()`
 
